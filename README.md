@@ -30,8 +30,7 @@ npm install
 npm run start
 ```
 
-
-Visit `http://localhost:3000` in your browser to view the app.
+4. Visit `http://localhost:3000` in your browser to view the app.
 
 ## Contributing
 
