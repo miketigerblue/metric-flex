@@ -1,4 +1,4 @@
-#  MetricFlex
+# MetricFlex
 
 ## Overview
 
@@ -13,19 +13,22 @@ MetricFlex is a comprehensive fitness metrics visualization tool designed for at
 
 ## Getting Started
 
-1. **Clone the Repository**: 
+1. **Clone the Repository**:
+
 ```
-git clone https://github.com/[your_username]/FitVis.git
+git clone https://github.com/miketigerblue/metric-flex.git
 ```
 
 2. **Installation**:
-Navigate to the project directory and install the necessary dependencies:
+   Navigate to the project directory and install the necessary dependencies:
+
 ```
-cd FitVis
+cd metric-flex
 npm install
 ```
 
 3. **Run the Project**:
+
 ```
 npm run start
 ```
@@ -42,6 +45,4 @@ This project is licensed under the MIT License - see the [LICENSE.md](link_to_li
 
 ## Acknowledgments
 
-- Thanks to OpenAI's ChatGPT for guidance in the initial setup and brainstorming!
 - All contributors and testers who helped refine this tool.
-
